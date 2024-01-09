@@ -65,7 +65,9 @@ Performans metriklerini ve sonuçları gözlemleyin.
 	
 ### Adım 2: Gerekli Bağımlılıkların Yüklenmesi
 Projede kullanılan kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz. 
-pip install -r requirements.txt
+
+	pip install -r requirements.txt
+
 
 ### Adım 3: Veri Setinin Hazırlanması
 20% test, 80% training veri seti ulaşmak için:
