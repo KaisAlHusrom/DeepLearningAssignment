@@ -25,19 +25,19 @@ sınıflandırılması, görüntü işleme ve derin öğrenme teknikleri kullan�
 
 
 
-# Proje Amacı ve Kapsamı
+### Proje Amacı ve Kapsamı
 
 Amacı: Görüntü sınıflandırma algoritmalarını kullanarak muzların olgunluk durumlarını tespit etmek.
 Kapsamı: Veri artırma, evrişimli sinir ağları (CNN), transfer öğrenme (InceptionV3 gibi önceden eğitilmiş modellerin kullanımı) ve yapay sinir ağları (ANN) gibi çeşitli derin öğrenme tekniklerini kullanarak muzların sınıflandırılması.
 
-#Kullanılan Teknolojiler
+###Kullanılan Teknolojiler
 
 Python: Programlama dili
 TensorFlow ve Keras: Derin öğrenme modeli oluşturmak için kullanılan kütüphaneler
 Google Colab: Kodların çalıştırıldığı bulut tabanlı geliştirme ortamı
 Image Data Generator: Görüntü verilerini işlemek için kullanılan Keras modülü
 
-#Projenin Çalıştırılması
+###Projenin Çalıştırılması
 
 Google Colab üzerinde proje dosyalarını açın.
 Veri setlerinin Google Drive üzerinde doğru konumlandığından emin olun.
@@ -48,7 +48,6 @@ Performans metriklerini ve sonuçları gözlemleyin.
 
 ## Proje Dosya Yapısı
 
-Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin:
 - proje.ipynb
 - `README.md`
 - requirements.txt
@@ -59,16 +58,16 @@ Projenizin dosya yapısını açıklayan bir bölüm ekleyebilirsiniz. Örneğin
 
 ## Kurulum
 
-Adım 1: Projenin Klonlanması
+###Adım 1: Projenin Klonlanması
 
 	git clone <proje_git_adresi>
 	cd proje_klasoru
 	
-Adım 2: Gerekli Bağımlılıkların Yüklenmesi
+###Adım 2: Gerekli Bağımlılıkların Yüklenmesi
 Projede kullanılan kütüphaneleri yüklemek için aşağıdaki komutu kullanabilirsiniz. 
 pip install -r requirements.txt
 
-Adım 3: Veri Setinin Hazırlanması
+###Adım 3: Veri Setinin Hazırlanması
 20% test, 80% training veri seti ulaşmak için:
 https://drive.google.com/drive/folders/1koSaoBoCM_Xw2-ocGHapTmy09yhB1CAG?usp=drive_link
 
