@@ -101,15 +101,15 @@ ChatGPT: https://chat.openai.com/
 
 ## İletişim
 
-Kais Al Husrom: 
-e-posta: kais.al.husrom@gmail.com
+#### Kais Al Husrom: 
+E-posta: kais.al.husrom@gmail.com
 Linkedin: https://www.linkedin.com/in/kais-al-husrom-943b48233/
 
-ABDULLAH ALHASAN:
-e-posta: abdallahalhasan2@gmail.com
+#### ABDULLAH ALHASAN:
+E-posta: abdallahalhasan2@gmail.com
 
-Abdalla youssef:
-Abdalla.youssef182@gmail.com
+#### Abdalla youssef:
+E-posta: Abdalla.youssef182@gmail.com
 
-MUHAMMED HATTAB:
-muhammad.12015@gmail.com
+#### MUHAMMED HATTAB:
+E-posta: muhammad.12015@gmail.com
